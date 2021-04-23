@@ -1,14 +1,10 @@
 {
-  "name": "next-ts-setup",
+  "name": "nlw-05",
   "version": "0.1.0",
   "private": false,
-  "author": {
-    "name": "Gabb-c",
-    "url": "https://github.com/Gabb-c"
-  },
-  "description": "A React.js setup using Next.js",
+  "description": "React bootcamp from nlw5",
   "repository": {
-    "url": "https://github.com/Gabb-c/next-ts-setup"
+    "url": "https://github.com/Gabb-c/nlw-05"
   },
   "scripts": {
     "dev": "next dev",
