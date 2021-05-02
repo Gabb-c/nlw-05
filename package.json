@@ -17,7 +17,8 @@
     "tsc": "tsc --skipLibCheck",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
-    "analyze": "ANALYZE=true next build"
+    "analyze": "ANALYZE=true next build",
+    "prepare": "husky install"
   },
   "dependencies": {
     "axios": "^0.21.1",
